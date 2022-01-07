@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Machine Learning with Tensorflow
 - 💞️ I’m looking to collaborate on any future projects
 - 📫 Reach me through:-
+      
       1) LinkedIn - www.linkedin.com/in/ShrivatsavanS
+     
       2) Twitter  - https://twitter.com/shrivatsavan
         
 
